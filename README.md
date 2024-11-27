@@ -73,6 +73,7 @@ Remember that each data has its own trade-offs. And you need to pay attention mo
 * `A` [LRU Cache](src/data-structures/lru-cache/) - Least Recently Used (LRU) cache
 
 ## Algorithms
+## By Mudassir Alam
 
 An algorithm is an unambiguous specification of how to solve a class of problems. It is
 a set of rules that precisely define a sequence of operations.
